@@ -44,7 +44,7 @@ gerber/
 *-backups
 *.kicad_prl
 *.sch-bak
-*~
+./**/~
 _autosave-*
 *.tmp
 *-save.pro
