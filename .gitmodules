@@ -4,6 +4,12 @@
 [submodule "corne-light/pcb/kbd"]
 	path = corne-light/pcb/kbd
 	url = https://github.com/foostan/kbd
+[submodule "corne-choc-wireless/pcb/zzkeeb"]
+	path = corne-choc-wireless/pcb/zzkeeb
+	url = https://github.com/zzeneg/zzkeeb.git
+[submodule "corne-choc-wireless/pcb/kbd"]
+	path = corne-choc-wireless/pcb/kbd
+	url = https://github.com/foostan/kbd
 [submodule "corne-ultralight/pcb/kbd"]
 	path = corne-ultralight/pcb/kbd
 	url = https://github.com/foostan/kbd
