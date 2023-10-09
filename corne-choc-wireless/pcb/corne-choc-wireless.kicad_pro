@@ -399,7 +399,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "corne-cherry.kicad_pro",
+    "filename": "corne-choc-wireless.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -1002,7 +1002,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "corne-cherry.net",
+      "netlist": "corne-choc-wireless.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
