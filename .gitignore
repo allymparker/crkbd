@@ -32,7 +32,4 @@ gerber/
 # Backup files (exported from Pcbnew)
 *-backups/
 
-
-corne-choc-wireless/pcb/#auto_saved_files#
-corne-choc-wireless/pcb/~corne-choc-wireless.kicad_sch.lck
-corne-ultralight/pcb/~corne-ultralight.kicad_sch.lck
+**/~*
