@@ -4624,7 +4624,7 @@
 
   (footprint "zzkeeb:RotaryEncoder_EVQWGD001" (layer "F.Cu")
     (tstamp 316ebacd-ed38-413f-84e5-6ad5d65db095)
-    (at 279.25 65.25 180)
+    (at 279.2725 65.3375 180)
     (property "Sheetfile" "corne-choc-wireless.kicad_sch")
     (property "Sheetname" "")
     (path "/93e0df81-c035-4620-8a6e-9e66e1490f7e")
@@ -5223,7 +5223,7 @@
 
   (footprint "zzkeeb:RotaryEncoder_EVQWGD001" (layer "F.Cu")
     (tstamp cb23dc57-225c-474c-80cc-b2dc9c46bdbb)
-    (at 21.5175 64.2875)
+    (at 21.71 64.39)
     (property "Sheetfile" "corne-choc-wireless.kicad_sch")
     (property "Sheetname" "")
     (path "/6e94da4d-cc54-427c-a045-cbc585a9a9e2")
