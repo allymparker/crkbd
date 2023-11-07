@@ -13,3 +13,9 @@
 [submodule "corne-ultralight/pcb/kbd"]
 	path = corne-ultralight/pcb/kbd
 	url = https://github.com/foostan/kbd
+[submodule "corne-cherry-wireless/pcb/zzkeeb"]
+	path = corne-cherry-wireless/pcb/zzkeeb
+	url = https://github.com/zzeneg/zzkeeb.git
+[submodule "corne-cherry-wireless/pcb/kbd"]
+	path = corne-cherry-wireless/pcb/kbd
+	url = https://github.com/foostan/kbd
