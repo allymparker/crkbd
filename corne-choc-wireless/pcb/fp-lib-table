@@ -3,4 +3,5 @@
   (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
   (lib (name "niceview")(type "KiCad")(uri "${KIPRJMOD}/../../corne-ultralight/pcb/nice_view.pretty")(options "")(descr ""))
   (lib (name "zzkeeb")(type "KiCad")(uri "${KIPRJMOD}/zzkeeb/kicad/zzkeeb.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
 )

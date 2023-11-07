@@ -2,7 +2,7 @@
   "board": {
     "active_layer": 0,
     "active_layer_preset": "",
-    "auto_track_width": true,
+    "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -15,17 +15,17 @@
       "zones": 0.6
     },
     "selection_filter": {
-      "dimensions": false,
+      "dimensions": true,
       "footprints": true,
-      "graphics": false,
-      "keepouts": false,
+      "graphics": true,
+      "keepouts": true,
       "lockedItems": false,
-      "otherItems": false,
-      "pads": false,
-      "text": false,
+      "otherItems": true,
+      "pads": true,
+      "text": true,
       "tracks": true,
       "vias": true,
-      "zones": false
+      "zones": true
     },
     "visible_items": [
       0,
@@ -57,14 +57,15 @@
       29,
       30,
       32,
+      33,
       34,
       35,
       36,
       39,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "0001020_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "corne-choc-wireless.kicad_prl",
