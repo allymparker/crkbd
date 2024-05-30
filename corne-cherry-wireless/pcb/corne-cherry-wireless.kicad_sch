@@ -1846,7 +1846,7 @@
     (pin "8" (uuid d7096624-47a8-4852-b611-0328e3937afe))
     (pin "9" (uuid 4cd4388a-7f5d-41b0-8aab-770fa97d0f7d))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "U1") (unit 1)
         )
@@ -1872,7 +1872,7 @@
     (pin "1" (uuid b18d5043-991b-4a45-925d-33534ec6d852))
     (pin "2" (uuid b2d31204-edd5-43c1-a588-06cbdb68ba77))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW2") (unit 1)
         )
@@ -1898,7 +1898,7 @@
     (pin "1" (uuid 95d69fce-8d03-4aee-b831-89034c4717d2))
     (pin "2" (uuid 19ccff31-b895-4ae2-ac0e-ee2bdc35efd5))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D2") (unit 1)
         )
@@ -1924,7 +1924,7 @@
     (pin "1" (uuid 1ee7788d-84ee-4d71-91f7-c808d578e076))
     (pin "2" (uuid ff0f510a-31b1-4733-931c-5bcc84c03f04))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW3") (unit 1)
         )
@@ -1950,7 +1950,7 @@
     (pin "1" (uuid d4746902-ec98-4941-8c2a-ed303c9748d9))
     (pin "2" (uuid 8c13858f-d6f3-437d-8dba-45ec100bd8c4))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D3") (unit 1)
         )
@@ -1976,7 +1976,7 @@
     (pin "1" (uuid f9fe5bab-1751-4a36-bf15-72f0814bead5))
     (pin "2" (uuid 0fb4685f-3722-47a0-a923-bcf39936aca6))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW4") (unit 1)
         )
@@ -2002,7 +2002,7 @@
     (pin "1" (uuid 18edda06-3322-46e1-a9bc-3978e0cc9416))
     (pin "2" (uuid a8ae9933-eea5-4f7b-b4a5-2b554b0dc4fe))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW5") (unit 1)
         )
@@ -2028,7 +2028,7 @@
     (pin "1" (uuid fd26796e-c0cd-4fe1-96a7-53ee4fefb414))
     (pin "2" (uuid d106fb88-18c5-4584-9469-78fc7c3b9b12))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW6") (unit 1)
         )
@@ -2054,7 +2054,7 @@
     (pin "1" (uuid 8e3d9cc4-df5a-4338-bc36-cb661af07a67))
     (pin "2" (uuid 23c26811-3e81-47a1-97cc-0b1d3a35beaa))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D4") (unit 1)
         )
@@ -2080,7 +2080,7 @@
     (pin "1" (uuid 7f151132-9484-4302-bec0-42ea6f74aec2))
     (pin "2" (uuid ecf31d4b-6a86-4179-9bc6-19b92f7b7ef5))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D5") (unit 1)
         )
@@ -2106,7 +2106,7 @@
     (pin "1" (uuid b256fa2b-7f60-4ab1-8332-8b4011d7d3af))
     (pin "2" (uuid 01d6d47d-da91-4b15-b415-25dff5c1d831))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D6") (unit 1)
         )
@@ -2132,7 +2132,7 @@
     (pin "1" (uuid 941f4eea-1b43-451e-951a-0d8cf4efda0a))
     (pin "2" (uuid 36b17315-567c-4289-96e2-701aadd31f9a))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW1") (unit 1)
         )
@@ -2158,7 +2158,7 @@
     (pin "1" (uuid 2143f811-1390-4ded-999f-99b3fb2cf310))
     (pin "2" (uuid 671f86cc-63f2-40c9-b45c-fb7932cbfb25))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D1") (unit 1)
         )
@@ -2184,7 +2184,7 @@
     (pin "1" (uuid 2c5a9df4-4658-4450-a7df-178f6432a1e0))
     (pin "2" (uuid 71cff8a5-f40c-4f6b-a992-2dc9b836aa04))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW8") (unit 1)
         )
@@ -2210,7 +2210,7 @@
     (pin "1" (uuid 5bf7e6bb-825a-4c9d-960f-aa354a5bb404))
     (pin "2" (uuid 5e85c5db-e3db-40ab-80b4-b064edb1edf6))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D8") (unit 1)
         )
@@ -2236,7 +2236,7 @@
     (pin "1" (uuid 42426073-d187-4d4c-9167-ecf524336540))
     (pin "2" (uuid 9b382f13-ec1d-41d5-8c4b-c8317ee9d8ed))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW9") (unit 1)
         )
@@ -2262,7 +2262,7 @@
     (pin "1" (uuid 2c139d58-199f-4558-abdf-67b5e91ee864))
     (pin "2" (uuid 3aa38d8e-09bb-4083-8caa-912bfe8a9db3))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D9") (unit 1)
         )
@@ -2288,7 +2288,7 @@
     (pin "1" (uuid 42f91944-c883-4e85-be4a-563d659bddad))
     (pin "2" (uuid 85f179e5-5952-4836-8a06-cd4bcac24a8c))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW10") (unit 1)
         )
@@ -2314,7 +2314,7 @@
     (pin "1" (uuid 10b4658e-3e2c-4519-9c8b-0948842e18cc))
     (pin "2" (uuid a62b21c7-3c61-47a4-8a24-ec1f8b4f0d47))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW11") (unit 1)
         )
@@ -2340,7 +2340,7 @@
     (pin "1" (uuid bf6806f0-6c31-4bad-9724-65c81b076a8d))
     (pin "2" (uuid c9f902bb-0a8b-4258-b4cc-8905aff52c4e))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW12") (unit 1)
         )
@@ -2366,7 +2366,7 @@
     (pin "1" (uuid 162cf74c-e230-4c8b-88e2-06926fc9e963))
     (pin "2" (uuid 3842414a-66f4-461b-a97e-654b141d3db3))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D10") (unit 1)
         )
@@ -2392,7 +2392,7 @@
     (pin "1" (uuid a6ef0f34-d5c4-4240-847e-cc8991bb3b82))
     (pin "2" (uuid 9ac2fe04-c768-4a81-8fa8-8c1563201324))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D11") (unit 1)
         )
@@ -2418,7 +2418,7 @@
     (pin "1" (uuid 3ca436dd-4046-4e22-ab63-93d79dff0383))
     (pin "2" (uuid f217347f-d8aa-4c78-82b4-fe4a91f9a505))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D12") (unit 1)
         )
@@ -2444,7 +2444,7 @@
     (pin "1" (uuid a1286ddb-772a-484f-8717-b94d4fbf1afc))
     (pin "2" (uuid b06ff824-22f7-495f-8371-a715b5e4f33b))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW14") (unit 1)
         )
@@ -2470,7 +2470,7 @@
     (pin "1" (uuid d5239279-271f-41c8-905c-b005d90a51c8))
     (pin "2" (uuid 8146b2b4-f539-45c4-bcac-35d3e0c5d788))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D14") (unit 1)
         )
@@ -2496,7 +2496,7 @@
     (pin "1" (uuid 4e95e1fa-5486-4b1a-bc33-6ddf83a8a7b2))
     (pin "2" (uuid e09ce485-4ae6-4815-9c90-3e177e07a26e))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW15") (unit 1)
         )
@@ -2522,7 +2522,7 @@
     (pin "1" (uuid eff2ae94-78d1-4746-a33c-1c4a23c71d0c))
     (pin "2" (uuid 3ad35cb2-f7f7-4687-8a06-f053db67e4f5))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D15") (unit 1)
         )
@@ -2548,7 +2548,7 @@
     (pin "1" (uuid c8a80f72-074d-4e17-ac8a-e76ed4856027))
     (pin "2" (uuid 382ea4d0-a485-4a52-82b1-e83bdacef4b0))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW16") (unit 1)
         )
@@ -2574,7 +2574,7 @@
     (pin "1" (uuid 3413d10a-7d9b-4972-8464-fe87d9b89ac2))
     (pin "2" (uuid faa00555-d82b-4a65-86a4-32d0ba3bec2d))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW17") (unit 1)
         )
@@ -2600,7 +2600,7 @@
     (pin "1" (uuid 3c2ae1c8-f360-4278-9938-33f641d48723))
     (pin "2" (uuid 4aefd7eb-0031-4123-93c6-3c3398865bc8))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW18") (unit 1)
         )
@@ -2626,7 +2626,7 @@
     (pin "1" (uuid 80063d16-2a8c-4bac-a150-dcdcd02f53bc))
     (pin "2" (uuid 3732635f-4a69-44fa-856b-025a5fde1555))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D16") (unit 1)
         )
@@ -2652,7 +2652,7 @@
     (pin "1" (uuid 5332135d-f673-4b55-b11c-9971ba46ae30))
     (pin "2" (uuid 7ac9f0c5-5079-4a1f-85f0-d3477763f186))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D17") (unit 1)
         )
@@ -2678,7 +2678,7 @@
     (pin "1" (uuid 8363f29e-ec42-4953-947e-23188374c6a3))
     (pin "2" (uuid 4db3a870-f7d5-4efa-8537-3cac23a1eb1c))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D18") (unit 1)
         )
@@ -2704,7 +2704,7 @@
     (pin "1" (uuid 04ba1df5-5967-479a-aeeb-2484b0418c06))
     (pin "2" (uuid 973ab7da-7b3b-4a70-8623-137588b93dad))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW13") (unit 1)
         )
@@ -2730,7 +2730,7 @@
     (pin "1" (uuid 3c4b7e2d-b749-497a-b942-687d468777f1))
     (pin "2" (uuid c0dd13f1-1ac7-4d36-b04a-2b799bd10c51))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D13") (unit 1)
         )
@@ -2756,7 +2756,7 @@
     (pin "1" (uuid b3accc49-c0ef-47ed-82c7-5891eaef3c88))
     (pin "2" (uuid 06f55cd4-98b0-4d15-a9e1-a4eeac84404f))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW20") (unit 1)
         )
@@ -2782,7 +2782,7 @@
     (pin "1" (uuid 1be72dd2-75b1-4bf5-bbe2-df04494333a1))
     (pin "2" (uuid 848a8a51-c9e4-4372-b54f-1ba375a56b14))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D20") (unit 1)
         )
@@ -2808,7 +2808,7 @@
     (pin "1" (uuid 5f9ddb50-7968-42f1-91a2-364af0a91db6))
     (pin "2" (uuid 96c2f7eb-897b-409d-ac63-af99b2c79e03))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW21") (unit 1)
         )
@@ -2834,7 +2834,7 @@
     (pin "1" (uuid d9f29004-a4c3-4e3e-98f7-3d3b4a9e94c3))
     (pin "2" (uuid ad903800-b72f-4f85-ba09-f5048a37bcbc))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D21") (unit 1)
         )
@@ -2860,7 +2860,7 @@
     (pin "1" (uuid 452889a3-f385-474f-b373-7002edb1bbb5))
     (pin "2" (uuid 7a763e2d-96f4-45ef-b7bf-22b040b8a72d))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW19") (unit 1)
         )
@@ -2886,7 +2886,7 @@
     (pin "1" (uuid 96b19235-76dc-4702-87c9-bb9d7c422e47))
     (pin "2" (uuid 2d5090f7-dbca-4599-b01e-6fecbfe8ff7d))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D19") (unit 1)
         )
@@ -2911,7 +2911,7 @@
     )
     (pin "1" (uuid f89e4e94-d05e-4404-9d75-9f8cc0740908))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR07") (unit 1)
         )
@@ -2936,7 +2936,7 @@
     )
     (pin "1" (uuid 2c6247b7-9f05-4ee8-b1fc-720eae1d21e3))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR08") (unit 1)
         )
@@ -2961,7 +2961,7 @@
     )
     (pin "1" (uuid ac3c3825-7eee-46ae-9a44-e647477602c2))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR04") (unit 1)
         )
@@ -2986,7 +2986,7 @@
     )
     (pin "1" (uuid 134c42cb-962e-4669-a775-b913fcd58a0c))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR05") (unit 1)
         )
@@ -3011,7 +3011,7 @@
     )
     (pin "1" (uuid 57cc6934-09ef-43eb-8554-b0f0ce4a2ae2))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#FLG02") (unit 1)
         )
@@ -3036,7 +3036,7 @@
     )
     (pin "1" (uuid 8c989b43-13d1-4e43-aeed-1d12ba5a0ebb))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#FLG01") (unit 1)
         )
@@ -3062,7 +3062,7 @@
     (pin "1" (uuid 280f4df0-bd43-49d9-8890-60a0c689db46))
     (pin "2" (uuid 1adea1ce-7392-4ac3-b754-d195240cc848))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "RSW1") (unit 1)
         )
@@ -3087,7 +3087,7 @@
     )
     (pin "1" (uuid bff2f5e0-c417-4643-85b6-6477a68746a0))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR06") (unit 1)
         )
@@ -3116,7 +3116,7 @@
     (pin "4" (uuid 52742cee-7b89-4a2a-b60c-1a21b8a37209))
     (pin "5" (uuid dcfb530c-4b32-4151-a994-0f144fd552d9))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "J2") (unit 1)
         )
@@ -3164,7 +3164,7 @@
     (pin "8" (uuid d469cb89-0cd4-47ab-8ac7-fdea6018657b))
     (pin "9" (uuid cd3af0b8-e8ae-4e58-9259-cfc811685497))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "U2") (unit 1)
         )
@@ -3190,7 +3190,7 @@
     (pin "1" (uuid c6870433-76fb-4ea1-9ab3-9a4613eb5b43))
     (pin "2" (uuid c4e7aceb-60c7-4dda-accc-4b802e8c4cb1))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW23") (unit 1)
         )
@@ -3216,7 +3216,7 @@
     (pin "1" (uuid b300bd0f-cebe-4772-8cf3-1a25d8213065))
     (pin "2" (uuid f0338e04-c304-4677-9413-8bdd19e40a1b))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D23") (unit 1)
         )
@@ -3242,7 +3242,7 @@
     (pin "1" (uuid 5873549b-56cf-4f5d-8f68-a98691c347f9))
     (pin "2" (uuid 69f8c779-7f21-4333-9c88-e70a2997f0cb))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW24") (unit 1)
         )
@@ -3268,7 +3268,7 @@
     (pin "1" (uuid 864f1cc5-da67-49e4-8b90-4107792f3989))
     (pin "2" (uuid 8a5d9c1a-1179-4a28-8aad-0fb48428ff82))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D24") (unit 1)
         )
@@ -3294,7 +3294,7 @@
     (pin "1" (uuid bc025522-1a38-4881-b0e0-70efcd731a54))
     (pin "2" (uuid 9413f8d4-4687-47f5-b48b-e14269aecc81))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW25") (unit 1)
         )
@@ -3320,7 +3320,7 @@
     (pin "1" (uuid 8dc21a46-9ea1-431c-a6d8-135084fcdbc1))
     (pin "2" (uuid 86a33e57-cba3-4cca-ab3c-941e158c9d67))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW26") (unit 1)
         )
@@ -3346,7 +3346,7 @@
     (pin "1" (uuid 6cbd5a53-5614-4de9-9a30-6941ca5f3e84))
     (pin "2" (uuid b5d7ca8d-57e2-4433-a5e1-31fc62b1a32d))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW27") (unit 1)
         )
@@ -3372,7 +3372,7 @@
     (pin "1" (uuid e2ff798a-e226-4346-9585-8ee54d4d5589))
     (pin "2" (uuid e91c0af9-d1c3-413d-bd8f-a1eb11ae5635))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D25") (unit 1)
         )
@@ -3398,7 +3398,7 @@
     (pin "1" (uuid 6bcf06e2-0319-41a2-8813-8f202d802a40))
     (pin "2" (uuid 9aac3de8-7054-45cc-ae76-fd7c88c40467))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D26") (unit 1)
         )
@@ -3424,7 +3424,7 @@
     (pin "1" (uuid 03ce9a80-3ff1-448d-9c5e-1ec86d09f2d0))
     (pin "2" (uuid cfda627b-7470-4e8f-9536-91da1c3c8549))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D27") (unit 1)
         )
@@ -3450,7 +3450,7 @@
     (pin "1" (uuid 59010309-e544-43c6-92fb-1f604d5d4dff))
     (pin "2" (uuid 18cecfa0-17ff-406a-b2e9-184a37e7f5d7))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW22") (unit 1)
         )
@@ -3476,7 +3476,7 @@
     (pin "1" (uuid daabbb98-6dae-4a30-80c7-ddb56f59d55e))
     (pin "2" (uuid 49a0cf3c-e939-44df-a906-8cbb8f2af538))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D22") (unit 1)
         )
@@ -3502,7 +3502,7 @@
     (pin "1" (uuid 8a483003-0110-4bfb-8579-fc1f407dec88))
     (pin "2" (uuid c398cb56-d27b-4fcd-9941-2e3f2bb03a94))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW29") (unit 1)
         )
@@ -3528,7 +3528,7 @@
     (pin "1" (uuid b1743b5c-937d-4ac9-9253-52dfe8303bff))
     (pin "2" (uuid 6ec8d1b0-915e-4190-960e-8516e6783049))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D29") (unit 1)
         )
@@ -3554,7 +3554,7 @@
     (pin "1" (uuid f0405271-8050-4475-9f8b-389c6e6a306f))
     (pin "2" (uuid 53ed924f-0600-48ba-8e6e-37ae69ccf562))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW30") (unit 1)
         )
@@ -3580,7 +3580,7 @@
     (pin "1" (uuid 3017259e-a85d-49a1-b1ce-fbf09f2ec4d9))
     (pin "2" (uuid bdbb09b9-f37d-405d-ac29-8b8fd059af92))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D30") (unit 1)
         )
@@ -3606,7 +3606,7 @@
     (pin "1" (uuid 03aa9404-af50-4274-8ebc-bed12213e7b2))
     (pin "2" (uuid 5d4e3765-8e2e-42c1-b876-081ef1c29ed1))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW31") (unit 1)
         )
@@ -3632,7 +3632,7 @@
     (pin "1" (uuid e2393d14-57a5-4896-ab8f-201aa4c2ccad))
     (pin "2" (uuid e6a3fa3c-56c1-436f-92b5-3a984e0f8bd0))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW32") (unit 1)
         )
@@ -3658,7 +3658,7 @@
     (pin "1" (uuid b0f90d7f-5602-4daa-9be7-af63df3b7aea))
     (pin "2" (uuid 67ba516c-9a39-4cd1-b2a1-d535098dc0c2))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW33") (unit 1)
         )
@@ -3684,7 +3684,7 @@
     (pin "1" (uuid d2bbe07e-908e-4252-9a3d-5b77970dda01))
     (pin "2" (uuid 6421cb18-fa97-4be9-ab5f-55edfbed5567))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D31") (unit 1)
         )
@@ -3710,7 +3710,7 @@
     (pin "1" (uuid 7fda3cde-e7ad-4d2c-91dc-0ba414e414ae))
     (pin "2" (uuid bef69cf0-09d0-45e9-ac1a-0ebf75d5b9c2))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D32") (unit 1)
         )
@@ -3736,7 +3736,7 @@
     (pin "1" (uuid 5268ac6e-4b4e-49c0-9403-8356b6638a39))
     (pin "2" (uuid 92c2c48d-cb46-4406-a547-d1d5b0b014b7))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D33") (unit 1)
         )
@@ -3762,7 +3762,7 @@
     (pin "1" (uuid ef4a3ab0-495b-4738-bf90-a578f25b8871))
     (pin "2" (uuid 0d3d7d65-201c-450f-817e-17cf5cadacef))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D28") (unit 1)
         )
@@ -3788,7 +3788,7 @@
     (pin "1" (uuid 7533af22-29c6-4c7d-9c22-41b7a521078a))
     (pin "2" (uuid c70b72d2-0f32-4c20-9e99-ec86c6bff39c))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW35") (unit 1)
         )
@@ -3814,7 +3814,7 @@
     (pin "1" (uuid 04e866c2-6549-4215-b4e3-10c24bbe7d6c))
     (pin "2" (uuid 2ae980b6-da7a-4c55-b42f-68d157a3d576))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D35") (unit 1)
         )
@@ -3840,7 +3840,7 @@
     (pin "1" (uuid e9e43552-d693-450b-a11d-16e838661ecc))
     (pin "2" (uuid 8a69902d-91cc-4c5f-bbfc-6e5e27add0c4))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW36") (unit 1)
         )
@@ -3866,7 +3866,7 @@
     (pin "1" (uuid cab11edb-b875-45b7-b15e-7b57d0c6914c))
     (pin "2" (uuid 759b8cf1-60ed-4f57-911c-701b5fdd3419))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D36") (unit 1)
         )
@@ -3892,7 +3892,7 @@
     (pin "1" (uuid 8ac64716-3b53-4670-897d-ba560c6cda16))
     (pin "2" (uuid 5e20508b-bde0-4036-b389-fdef36635e15))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW37") (unit 1)
         )
@@ -3918,7 +3918,7 @@
     (pin "1" (uuid 3b5ec1cb-9de8-4bb9-af82-5dfcdac47042))
     (pin "2" (uuid 442cbd79-7a23-4ea6-87ed-eb913b27cbbd))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW38") (unit 1)
         )
@@ -3944,7 +3944,7 @@
     (pin "1" (uuid 9ed86595-9d85-4030-9568-fa13f5d6420a))
     (pin "2" (uuid 95db37e3-281c-4494-854c-d35f2920214f))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW39") (unit 1)
         )
@@ -3970,7 +3970,7 @@
     (pin "1" (uuid 67480666-90dd-4fb1-9512-c380f11c0acf))
     (pin "2" (uuid 369a8234-1a4b-4f7d-940b-0f5eac688c7e))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D37") (unit 1)
         )
@@ -3996,7 +3996,7 @@
     (pin "1" (uuid 688bf022-0b23-4300-b13d-17716f34601b))
     (pin "2" (uuid 608fd932-71b5-4d64-b77e-27c21626701b))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D38") (unit 1)
         )
@@ -4022,7 +4022,7 @@
     (pin "1" (uuid 11145988-e72e-4a68-8341-b7ea157ca9f7))
     (pin "2" (uuid ae77ebc3-4eb3-4e1f-ad95-2cd99bc24d51))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D39") (unit 1)
         )
@@ -4048,7 +4048,7 @@
     (pin "1" (uuid bb318ad1-faf7-4edd-b909-3f251aaab80a))
     (pin "2" (uuid d98618ff-d400-4bec-9148-fe78af55aab3))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW34") (unit 1)
         )
@@ -4074,7 +4074,7 @@
     (pin "1" (uuid 89420ba9-9637-4c76-8000-58171f20fa09))
     (pin "2" (uuid 74ed446f-cd77-4a1a-9ca2-0c7247875639))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D34") (unit 1)
         )
@@ -4100,7 +4100,7 @@
     (pin "1" (uuid 995c2bb0-9142-428c-b606-23a1a6600d02))
     (pin "2" (uuid 02cb8a17-89d0-4c54-819e-963d72be8650))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW41") (unit 1)
         )
@@ -4126,7 +4126,7 @@
     (pin "1" (uuid de41bdff-7e57-483a-ab2d-1438e88a0b9b))
     (pin "2" (uuid ceb07a96-0cad-4ca1-a8fb-07837cbe5bd6))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D41") (unit 1)
         )
@@ -4152,7 +4152,7 @@
     (pin "1" (uuid a58b7d2d-3a80-4138-b0ea-273d9585e201))
     (pin "2" (uuid 703e3986-d1dd-4fa5-87cf-fb4beb5fb5a2))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW42") (unit 1)
         )
@@ -4178,7 +4178,7 @@
     (pin "1" (uuid 93aaf001-8d18-4c55-82d4-341224716b84))
     (pin "2" (uuid 212a3a90-d96d-438b-af99-81d79f160d44))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D42") (unit 1)
         )
@@ -4204,7 +4204,7 @@
     (pin "1" (uuid 493c780c-3ee5-4186-a974-1b3edd78ddb5))
     (pin "2" (uuid 9a471a3c-d338-4293-8448-e70acb3c5d76))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW40") (unit 1)
         )
@@ -4230,7 +4230,7 @@
     (pin "1" (uuid f654ad20-4512-47f0-ad90-5311c6498391))
     (pin "2" (uuid dcdfaafb-acb2-49b1-8728-ea9b88c430b2))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D40") (unit 1)
         )
@@ -4255,7 +4255,7 @@
     )
     (pin "1" (uuid cd752cb0-1ec6-4585-b46a-327c6f1e512d))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR017") (unit 1)
         )
@@ -4280,7 +4280,7 @@
     )
     (pin "1" (uuid c691073a-503c-4e32-a158-a5b4d8c48023))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR018") (unit 1)
         )
@@ -4306,7 +4306,7 @@
     (pin "1" (uuid 5cce2900-2528-4c7c-9cfb-eea25f6b277e))
     (pin "2" (uuid 22cf9708-7ae3-439d-8afe-3333d62ddd18))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "RSW2") (unit 1)
         )
@@ -4331,7 +4331,7 @@
     )
     (pin "1" (uuid 3f43ce60-3179-4772-9963-4cf8c01da026))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR020") (unit 1)
         )
@@ -4360,7 +4360,7 @@
     (pin "4" (uuid 412c58c1-63dc-40d2-8041-aa886ddb779d))
     (pin "5" (uuid 4f834c4d-88a7-42fd-acff-4d10cda308ed))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "J4") (unit 1)
         )
@@ -4385,7 +4385,7 @@
     )
     (pin "1" (uuid bf69002d-c3b0-4f4a-b271-5a544a6b3a1d))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR024") (unit 1)
         )
@@ -4410,7 +4410,7 @@
     )
     (pin "1" (uuid a1dcd0fb-37da-40f1-b392-f0ce9b9a31a4))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR019") (unit 1)
         )
@@ -4435,7 +4435,7 @@
     )
     (pin "1" (uuid 437ca445-8059-4422-bba4-7d0a13194aa5))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR023") (unit 1)
         )
@@ -4460,7 +4460,7 @@
     )
     (pin "1" (uuid b448de65-4667-438c-8ad0-bccabbd01aef))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#FLG04") (unit 1)
         )
@@ -4485,7 +4485,7 @@
     )
     (pin "1" (uuid fa518a0e-1f70-4211-910c-30908ece3019))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR016") (unit 1)
         )
@@ -4510,7 +4510,7 @@
     )
     (pin "1" (uuid e0e26cef-6682-4f90-96e5-5a38d6d7eb6f))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR015") (unit 1)
         )
@@ -4535,7 +4535,7 @@
     )
     (pin "1" (uuid afa55e41-9a6e-4806-96a7-6651a74235c5))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#FLG03") (unit 1)
         )
@@ -4560,7 +4560,7 @@
     )
     (pin "1" (uuid 0d2bda35-3903-452b-8d5e-bfebd66ddc98))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR010") (unit 1)
         )
@@ -4586,7 +4586,7 @@
     (pin "1" (uuid 61b8b59c-870d-4c7f-a9cf-f9f7b2fe6145))
     (pin "2" (uuid 689396af-27c1-4bdd-87f3-185680668adc))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "BATJ2") (unit 1)
         )
@@ -4611,7 +4611,7 @@
     )
     (pin "1" (uuid fe340246-d2b8-4522-9824-48a576fdc1ef))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR09") (unit 1)
         )
@@ -4637,7 +4637,7 @@
     (pin "1" (uuid 9f1703ae-e51e-4fd8-b3b5-6bef0ee501d3))
     (pin "2" (uuid 6646e078-58ea-46b4-b7ea-e1ddf21c3aa1))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "BATJ4") (unit 1)
         )
@@ -4662,7 +4662,7 @@
     )
     (pin "1" (uuid e0a3f77d-23f0-4b22-858a-3ba9513f403d))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR03") (unit 1)
         )
@@ -4689,7 +4689,7 @@
     (pin "2" (uuid 91644055-715b-41ed-b1fe-7418b29b668d))
     (pin "3" (uuid fca0d906-a977-4b81-80ad-7d4ea3972cd2))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "PSW1") (unit 1)
         )
@@ -4714,7 +4714,7 @@
     )
     (pin "1" (uuid e4879001-0926-4ccf-9009-a4f8783a9f2e))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR021") (unit 1)
         )
@@ -4739,7 +4739,7 @@
     )
     (pin "1" (uuid b2fc1f7c-9793-4d11-87bb-1b787b46d118))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR013") (unit 1)
         )
@@ -4766,7 +4766,7 @@
     (pin "2" (uuid 043227ac-acab-4dbb-b69c-acb7c7d77565))
     (pin "3" (uuid 02e37069-4f15-4628-b2bd-51ca308ee797))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "PSW_r1") (unit 1)
         )
@@ -4791,7 +4791,7 @@
     )
     (pin "1" (uuid 99c331a0-1872-4048-a79a-b9c7f1b3aca6))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR026") (unit 1)
         )
@@ -4816,7 +4816,7 @@
     )
     (pin "1" (uuid 8e95dd9b-96ab-48b7-a27d-2bd1a06a2f58))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR011") (unit 1)
         )
@@ -4841,7 +4841,7 @@
     )
     (pin "1" (uuid eb7dc1b6-a315-41ea-9579-15da4e78e896))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#FLG06") (unit 1)
         )
@@ -4866,7 +4866,7 @@
     )
     (pin "1" (uuid f382bfe0-5921-4364-925c-b9d4dd2ee5cd))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR012") (unit 1)
         )
@@ -4891,7 +4891,7 @@
     )
     (pin "1" (uuid b06f0a69-6119-47cd-9209-98c65fe3d958))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR025") (unit 1)
         )
@@ -4917,7 +4917,7 @@
     (pin "1" (uuid 9c063cb7-4508-40b3-8581-1781571769c5))
     (pin "2" (uuid 620803fa-b64b-4a2b-b055-641bec3d0f53))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "D7") (unit 1)
         )
@@ -4942,7 +4942,7 @@
     )
     (pin "1" (uuid fceaf2fb-4d6a-47a9-8165-0302ce994caf))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR014") (unit 1)
         )
@@ -4968,7 +4968,7 @@
     (pin "1" (uuid c5323f19-4dab-4b90-a145-509ad289019d))
     (pin "2" (uuid 92dc7ad8-a833-478b-8e16-b1d80c119bd1))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "BATJ1") (unit 1)
         )
@@ -4993,7 +4993,7 @@
     )
     (pin "1" (uuid cf1e35a6-13fb-4093-9821-5999b986defc))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#FLG05") (unit 1)
         )
@@ -5019,7 +5019,7 @@
     (pin "1" (uuid cfa7fcb2-9546-49c2-a694-845e870decb8))
     (pin "2" (uuid 06e14895-4832-4674-95af-e5e00ef5b97f))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW7") (unit 1)
         )
@@ -5044,7 +5044,7 @@
     )
     (pin "1" (uuid 3cd301ef-1dbc-4b4d-a39d-1436ae787eac))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR02") (unit 1)
         )
@@ -5069,7 +5069,7 @@
     )
     (pin "1" (uuid 4c8dcd17-f837-4d16-a3f6-17e8cdb6e8ae))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR01") (unit 1)
         )
@@ -5095,7 +5095,7 @@
     (pin "1" (uuid 0a9d25f4-57ad-4853-b04e-bf9eba133762))
     (pin "2" (uuid 57952486-7d68-45ec-aded-6e2687b3c2f7))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "SW28") (unit 1)
         )
@@ -5121,7 +5121,7 @@
     (pin "1" (uuid 2ce8d2a7-89a4-4f71-9f7a-54a786b69a28))
     (pin "2" (uuid d1298cd1-7e20-457a-b511-ce89234c2fc3))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "BATJ3") (unit 1)
         )
@@ -5146,7 +5146,7 @@
     )
     (pin "1" (uuid aa5d86a6-fbfc-468e-8e52-a311eb9b7c0a))
     (instances
-      (project "corne-choc-wireless"
+      (project "corne-cherry-wireless"
         (path "/745fa137-bada-4eb6-9f49-9b255d7ae8bf"
           (reference "#PWR022") (unit 1)
         )
